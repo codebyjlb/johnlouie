@@ -1,5 +1,4 @@
-**About Me
-**</br></br>
+**About Me**</br></br>
 
 I'm a passionate web developer with a strong focus on creating intuitive, high-performance web applications. I love blending the art of design with the science of programming to deliver outstanding user experiences.</br></br>
 
